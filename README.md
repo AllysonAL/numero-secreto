@@ -1,6 +1,8 @@
-# 📌 Jogo do número secreto (Testando o Git e GitHub)
+# 📌 Jogo do número secreto (Estudo de Git e GitHub)
 
-Este projeto foi um teste que realizei seguindo um curso que estava estudando na Alura (https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos) sobre Git e GitHub.
+Projeto referente ao desenvolvimento realizado nos seguintes cursos:
+- [Git e GitHub: compartilhando e colaborando em projetos](https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos)
+- [Git e GitHub: dominando controle de versão de código](https://cursos.alura.com.br/course/git-github-dominando-controle-versao-codigo)
 ---
 
 ## 🚀 Tecnologias Utilizadas
